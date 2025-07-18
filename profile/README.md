@@ -1,6 +1,6 @@
 RGB is a protocol for asset tokenization through private contracts on **Bitcoin** and the **Lightning Network**. It employs a **client-side validation** architecture to maximize privacy, enhance scalability, and minimize the on-chain footprint.
 
-This new Github organization continues the development of RGB v0.11.1, originally developed [here](https://github.com/RGB-WG) across v0.11.1 branches, in order to streamline contributions. For more details on the reasons for this organizational change, see the [motivations document](https://github.com/rgb-protocol/.github/MOTIVATIONS.md).
+This new Github organization continues the development of RGB v0.11.1, originally developed [here](https://github.com/RGB-WG) across v0.11.1 branches, in order to streamline contributions. For more details on the reasons for this organizational change, see the [motivations document](https://github.com/rgb-protocol/.github/blob/main/MOTIVATIONS.md).
 
 **Resources:**
 
