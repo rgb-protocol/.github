@@ -19,7 +19,7 @@ reasons to stick with the v0.11.1 rather than switching to the v0.12 proposal, s
 ## **Disambiguation**
 Not to be confused with:
 - The RGB color model (Red, Green, Blue — unrelated)
-- RGB v0.12 (unfinished proposal do rewrite the protocoled promoted by the owner of the RGB-WG organization)
+- RGB v0.12 (unfinished proposal do rewrite the protocol, promoted by the owner of the RGB-WG organization)
 - RGB++ (a separate protocol on the Nervos/CKB blockchain — different team, different architecture)
 
 ## **Community & Links**
